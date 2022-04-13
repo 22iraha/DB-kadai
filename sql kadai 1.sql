@@ -11,3 +11,5 @@
 major_id INT NOT NULL REFERENCES major(major_id)
  );
  
+
+ 
